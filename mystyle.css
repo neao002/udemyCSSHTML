@@ -1,0 +1,55 @@
+
+
+* {
+  
+   text-align: right;
+
+}
+
+
+
+body {
+    background-image: url(images/isaac-garcia-Fc_5mfGgy7U-unsplash.jpg);
+    background-size: cover;
+}
+
+
+h2:hover, p {
+
+    color: #AA3939;
+    text-align:  center;
+    border: 5px solid green;
+    cursor: pointer;
+}
+
+p {
+
+    color: #AA3939;
+}
+
+li {
+
+    list-style: none;
+    display: inline-block;
+}
+
+.webtext:first-child {
+
+    border: 5px dashed green;
+
+}
+
+.active {
+
+    color: red;
+}
+
+#div1 {
+
+    background: rgba(0,0,255,0.2);
+}
+
+#div2 {
+
+    background: rgba(255,0,0,0.2);
+}
